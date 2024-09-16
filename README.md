@@ -1,4 +1,3 @@
-# BookManagementSystem
 # Book Management System
 
 A simple book management application built using Python, SQL, and Tkinter. This project provides a user-friendly interface for managing a collection of books, allowing for basic operations such as adding and removing books from the database.
